@@ -1,0 +1,16 @@
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\ntl\alithmath\alithmath\bin\Debug\alithmath.exe.config
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\ntl\alithmath\alithmath\bin\Debug\alithmath.exe
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\ntl\alithmath\alithmath\bin\Debug\alithmath.pdb
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\ntl\alithmath\alithmath\obj\Debug\alithmath.csprojResolveAssemblyReference.cache
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\ntl\alithmath\alithmath\obj\Debug\alithmath.exe
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\ntl\alithmath\alithmath\obj\Debug\alithmath.pdb
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\ntl\alithmath\alithmath\bin\Debug\Wolfram.NETLink.dll
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\alithmath\alithmath\bin\Debug\alithmath.exe.config
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\alithmath\alithmath\obj\Debug\alithmath.exe
+C:\Users\豪雄\Documents\Visual Studio 2013\Projects\alithmath\alithmath\obj\Debug\alithmath.pdb
+C:\Users\豪雄\Documents\GitHub\Arithmetic-coding\alithmath\alithmath\bin\Debug\alithmath.exe.config
+C:\Users\豪雄\Documents\GitHub\Arithmetic-coding\alithmath\alithmath\obj\Debug\alithmath.exe
+C:\Users\豪雄\Documents\GitHub\Arithmetic-coding\alithmath\alithmath\obj\Debug\alithmath.pdb
+C:\Users\豪雄\Documents\GitHub\Arithmetic-coding\alithmath\alithmath\bin\Debug\alithmath.exe
+C:\Users\豪雄\Documents\GitHub\Arithmetic-coding\alithmath\alithmath\bin\Debug\alithmath.pdb
+C:\Users\豪雄\Documents\GitHub\Arithmetic-coding\alithmath\alithmath\obj\Debug\alithmath.csprojResolveAssemblyReference.cache
